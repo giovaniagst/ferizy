@@ -1,16 +1,37 @@
-# ferizy
+# Tugas Akhir (Ferizy)
 
-A new Flutter project.
+_Repository_ ini merupakan hasil implementasi _prototype high-fidelity_ aplikasi Ferizy yang dirancang sebagai hasil dari Tugas Akhir Program Studi Teknik Informatika Institut Teknologi Bandung.
 
-## Getting Started
+## How To Run
 
-This project is a starting point for a Flutter application.
+_Clone repository_ ini dengan menjalankan _command_ berikut di terminal Anda
+```
+git clone
+```
+Jika _framework_ Flutter sudah ter-install, jalankan _command_ berikut
+```
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## How To Install Flutter
+Klik link berikut: [Install Flutter](https://docs.flutter.dev/get-started/install)
+### MacOS Installation
+1. Ekstrak file pada lokasi yang diinginkan. Contoh sebagai berikut
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+cd ~/development
+unzip ~/Downloads/flutter_macos_3.10.2-stable.zip
+```
+2. Tambahkan flutter tool ke path Anda
+```
+export PATH="$PATH:`pwd`/flutter/bin"
+```
+3. Jalankan flutter doctor
+```
+flutter doctor
+```
+## Author
+Giovani Anggasta<br>
+Teknik Informatika<br>
+13519155<br>
+13519155@std.stei.itb.ac.id / giovaniagst@gmail.com
