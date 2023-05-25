@@ -6,7 +6,7 @@ _Repository_ ini merupakan hasil implementasi _prototype high-fidelity_ aplikasi
 
 _Clone repository_ ini dengan menjalankan _command_ berikut di terminal Anda
 ```
-git clone
+git clone https://github.com/giovaniagst/ferizy.git
 ```
 Jika _framework_ Flutter sudah ter-install, jalankan _command_ berikut
 ```
